@@ -1,0 +1,6 @@
+br/com/despesasproject/servlets/ControladoraServlet.class
+br/com/despesasproject/acoes/ListaDespesas.class
+br/com/despesasproject/acoes/AdicionaDespesa.class
+br/com/despesasproject/acoes/Acao.class
+br/com/despesasproject/servlets/PrimeiraServlet.class
+br/com/despesasproject/acoes/RemoveDespesa.class
